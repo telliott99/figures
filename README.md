@@ -1,0 +1,1 @@
+This is centralized location for Keynote drawings for mathematics, and the various screenshots from them that I use for figures in my books.
